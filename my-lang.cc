@@ -76,6 +76,8 @@ static int gettok() {
   return ThisChar;
 }
 
+/*
+// Lexter test
 int main(){
 
     std::cout <<"Hello from lexer"<< std::endl;
@@ -88,6 +90,4 @@ int main(){
     
     return 0;
 }
-
-
-
+*/
